@@ -3,7 +3,9 @@
 - 📫 How to reach me NFleming84@gmail.com
 -  www.linkedin.com/in/nicole-fleming-403b217
 
+<p align="center" 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3nUF_YyjTPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p/>
 
 
 <!---
